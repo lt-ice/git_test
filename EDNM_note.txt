@@ -1,0 +1,10 @@
+EDNM
+Our baseline based on E-NeRF & D-NeRF.
+
+conda env: enerf
+
+Data in:
+/media/lt/Big/Data/NeRF/20230408
+
+TO RUN:
+CUDA_VISIBLE_DEVICES=0 python main_nerf.py -O
